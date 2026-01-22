@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/manbahadurthapa1248">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4622872&cache=1" alt="TryHackMe Badge">
-  </a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4622872" style='border:none;'></iframe>
 </p>
 
 ---
