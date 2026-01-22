@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/4622872">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4622872.png?style=flat" alt="TryHackMe Profile Badge" />
-  </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ManBahadurThapa.png" alt="Your Image Badge" />
 </p>
 
 ---
