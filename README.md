@@ -7,7 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=manbahadurthapa1248&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/4622872.png)](https://tryhackme.com/p/4622872)
+<p align="center">
+  <a href="https://tryhackme.com/p/4622872">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/4622872.png?style=flat" alt="TryHackMe Profile Badge" />
+  </a>
+</p>
 
 ---
 
