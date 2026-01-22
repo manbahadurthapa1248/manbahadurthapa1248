@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4622872" style='border:none;'></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4622872" width="400" alt="My TryHackMe Stats">
 </p>
 
 ---
