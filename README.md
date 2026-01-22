@@ -1,73 +1,110 @@
 <h1 align="center">👋 Hi, I'm Man Bahadur Thapa</h1>
-<h3 align="center">🎓 B.Tech Student | Future Cybersecurity Professional | ML & Cybersecurity Enthusiast</h3>
+<h3 align="center">🛡️ Junior Penetration Tester | Cybersecurity Professional | Security Automation Enthusiast</h3>
 
 ---
-<p align="left">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manbahadurthapa1248&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4622872" style="border:none;"></iframe>
+</p>
+
+---
+
 ## 🔹 About Me
-- 💻 Passionate about **Machine Learning, Web Development, and Cybersecurity**  
-- 🚀 Experienced in **Python, Flask, ML/DL, and Secure Systems**  
-- 🎯 Currently exploring **AI-driven security & automation solutions**  
-- 🔍 Always learning and building **real-world projects**  
+
+- 🎓 Bachelor’s in Technology (Completed)  
+- 🛡️ Working as a **Junior Penetration Tester**  
+- 🔍 Focused on **Web & Network Penetration Testing, Vulnerability Assessment, and Security Auditing**  
+- 🔵 Interested in **Blue Team Operations, Threat Detection, and Security Monitoring**  
+- ⚙️ Build **security tools, automation scripts, and security-focused web apps**  
+- 🚀 Always learning through **TryHackMe, HackTheBox, and real-world security projects**
 
 ---
 
-## 🚀 Projects & Categories
+## 🛡️ Cybersecurity & Pentesting Projects
 
-### 🧠 Machine Learning & Web Applications
-- [**AgriRec**](https://github.com/manbahadurthapa1248/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration) – Crop Recommendation System (ML + Flask UI)  
-- [**CardioVisionary**](https://github.com/manbahadurthapa1248/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques-) – Heart Disease Prediction (ML + Flask UI)  
-- [**SRS Analyzer**](https://github.com/manbahadurthapa1248/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML) – Software Document Parameter Extraction (ML + Flask UI)  
+- [**Cowrie SSH Honeypot + Elastic Stack Dashboard**](https://github.com/manbahadurthapa1248/Cowrie-SSH-Honeypot-Elastic-Stack-Dashboard-Project)  
+  → SSH Honeypot deployment with Cowrie, log collection, and attack visualization using Elastic Stack  
 
-### 🔐 Cybersecurity & Safe Browsing Extensions
-- [**AgeGuard**](https://github.com/manbahadurthapa1248/Age-Restricted-Content-Filtering-Using-Face-Recognition) – Age-Restricted Content Blocking Extension  
-- [**SecureLogger**](https://github.com/manbahadurthapa1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection) – Keystroke Monitoring & Protection  
-- [**ShieldPass**](https://github.com/manbahadurthapa1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings) – Secure Password Storage with Breach Alerts  
+- [**SecureLogger**](https://github.com/manbahadurthapa1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection)  
+  → AI-enhanced keystroke monitoring for detecting suspicious input behavior  
 
-### 🌐 Browser Extensions & Motion Detection
-- [**Motion Detector Extension**](https://github.com/manbahadurthapa1248/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
-- [**SafeBrowse**](https://github.com/manbahadurthapa1248/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
+- [**ShieldPass**](https://github.com/manbahadurthapa1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings)  
+  → Secure password manager with encryption and breach alerting  
 
-### 🔑 Authentication & Secure Login Systems
-- [**SecureLogin**](https://github.com/manbahadurthapa1248/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
+- [**SafeBrowse**](https://github.com/manbahadurthapa1248/SafeBrowse-Real-Time-Malicious-URL-Detector)  
+  → Real-time malicious URL detection browser extension  
 
-### 🗣 Automation & Smart Assistants
-- [**Friday Voice Assistant**](https://github.com/manbahadurthapa1248/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
+- [**AgeGuard**](https://github.com/manbahadurthapa1248/Age-Restricted-Content-Filtering-Using-Face-Recognition)  
+  → Face-recognition based restricted-content filtering extension  
 
----
-## ⚙️ Tech Stack & Tools  
-
-### 🚀 Programming & Frameworks  
-**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)**  
-
-### 🤖 Machine Learning & AI  
-**![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)**  
-
-### 🔐 Security & Authentication  
-**![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=hackthebox&logoColor=white)  ![Web Security](https://img.shields.io/badge/Web%20Security-FF5733?style=for-the-badge&logo=web-security&logoColor=white)  ![Cryptography](https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge&logo=security&logoColor=white)**  
-
-### 🌐 Browser Extensions & Automation  
-**![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)**  
-
-### 🤖 Conversational AI & Automation  
-**![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)  ![Natural Language Processing](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=ai&logoColor=white)**  
-
-### 📡 APIs & Databases  
-**![REST APIs](https://img.shields.io/badge/RESTful%20APIs-008000?style=for-the-badge&logo=api&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**  
-
-### 🛠 DevOps & Deployment  
-**![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)**  
+- [**SecureLogin (MFA)**](https://github.com/manbahadurthapa1248/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask)  
+  → Secure authentication system with Multi-Factor Authentication  
 
 ---
 
-## 📬 Connect With Me 
-📧 **Email:** [thaparitik45@gmail.com](mailto:thaparitik45@gmail.com)  
-💼 **LinkedIn:** [Man Bahadur Thapa](https://www.linkedin.com/in/man-bahadur-thapa/)  
-🐱 **GitHub:** [manbahadurthapa1248](https://github.com/manbahadurthapa1248)  
+## 🔵 Blue Team & Security Monitoring Interests
+
+- SIEM & Log Analysis (Elastic Stack, Splunk fundamentals)  
+- Honeypots & Threat Intelligence  
+- Incident Response & Digital Forensics (Learning Phase)  
+- Network Traffic Analysis (Wireshark, Zeek – in progress)
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**  
-🚀 **Always learning, building, and improving!** 
+## 💻 Security-Focused Development & Automation
+
+- Python scripting for security automation  
+- Flask-based security tools & dashboards  
+- REST APIs for security integrations  
+- Browser extensions for security use-cases  
+
+---
+
+## 🧠 Machine Learning for Security
+
+- [**AgriRec**](https://github.com/manbahadurthapa1248/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration)  
+- [**CardioVisionary**](https://github.com/manbahadurthapa1248/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques-)  
+- [**SRS Analyzer**](https://github.com/manbahadurthapa1248/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML)  
+
+*(ML experience applied toward future AI-driven security solutions)*
+
+---
+
+## ⚙️ Skills & Tools
+
+### 🛡️ Cybersecurity & Pentesting  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004C99?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+
+### 🔵 Blue Team & Monitoring  
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-003366?style=for-the-badge)
+
+### ⚙️ Scripting & Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Networking & Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0066CC?style=for-the-badge)
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: thaparitik45@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/man-bahadur-thapa/  
+🐱 GitHub: https://github.com/manbahadurthapa1248  
+
+---
+
+⭐ Always learning, attacking responsibly, and defending smarter.
+🚀 Building real-world cybersecurity skills every day.
