@@ -27,7 +27,7 @@
 ## 🛡️ Cybersecurity & Pentesting Projects
 
 - [**Cowrie SSH Honeypot + Elastic Stack Dashboard**](https://github.com/manbahadurthapa1248/Cowrie-SSH-Honeypot-Elastic-Stack-Dashboard-Project)  
-  → SSH Honeypot deployment with Cowrie, log collection, and attack visualization using Elastic Stack  
+  → SSH Honeypot deployment with Cowrie, log collection, and attack visualization using Elastic Stack 
 
 - [**SecureLogger**](https://github.com/manbahadurthapa1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection)  
   → AI-enhanced keystroke monitoring for detecting suspicious input behavior  
